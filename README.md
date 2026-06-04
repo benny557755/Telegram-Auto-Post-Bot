@@ -1,4 +1,4 @@
-# Telegram-Automation-VPN-Sell-Bot-
+# Telegram-Automation-Post-Bot-
 
 
 Telegram Auto-Poster Bot
